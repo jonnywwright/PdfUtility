@@ -1,0 +1,8 @@
+1 5 2
+[$][0-9]{2}.[0-9]{2}
+Total Instrument
+White
+inch
+E string
+[$][0-9]{4}
+[$][0-9]{4}
